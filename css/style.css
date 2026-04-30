@@ -1,0 +1,11 @@
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+/* Global style */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
